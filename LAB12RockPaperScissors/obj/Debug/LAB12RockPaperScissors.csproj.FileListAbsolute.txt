@@ -1,0 +1,7 @@
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\obj\Debug\LAB12RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\obj\Debug\LAB12RockPaperScissors.csproj.CoreCompileInputs.cache
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\bin\Debug\LAB12RockPaperScissors.exe.config
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\bin\Debug\LAB12RockPaperScissors.exe
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\bin\Debug\LAB12RockPaperScissors.pdb
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\obj\Debug\LAB12RockPaperScissors.exe
+c:\users\hanio\source\repos\LAB12RockPaperScissors\LAB12RockPaperScissors\obj\Debug\LAB12RockPaperScissors.pdb
