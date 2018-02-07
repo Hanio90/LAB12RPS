@@ -12,6 +12,12 @@ namespace LAB12RockPaperScissors
         paper,
         scissors,
     }
+    public enum Outcome
+    {
+        win,
+        lose,
+        tie,
+    }
     
 
     abstract class Player

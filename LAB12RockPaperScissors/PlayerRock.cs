@@ -8,6 +8,14 @@ namespace LAB12RockPaperScissors
 {
     class PlayerRock : Player
     {
+
+        public PlayerRock()
+        {
+            Name = "Brock";            // Name is coming from the player abstract class properties.
+            RoshamboValue = Roshambo.rock;
+            
+        }
+
         public override Roshambo GenerateRoshambo()
         {
             return Roshambo.rock;

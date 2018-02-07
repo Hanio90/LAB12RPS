@@ -9,18 +9,22 @@ namespace LAB12RockPaperScissors
     class HumanPlayer : Player
     {
 
+        public HumanPlayer(string name)
+        {
+            Name = name;
+        }
         
 
         public override Roshambo GenerateRoshambo()
         {
+
             Console.WriteLine("Do you want [1]Rock,[2]Paper,[3]Scissors");
-            Roshambo input = (Roshambo)Enum.Parse(typeof(Roshambo), Console.ReadLine());
-            return input;
+            var userInput = (Roshambo)Enum.Parse(typeof(Roshambo), Console.ReadLine());
 
+            
+            //(Roshambo)int.Parse(Console.ReadLine());
+            return userInput;
 
-            //int input = int.Parse(Console.ReadLine());
-            //Roshambo output = (Roshambo)input; 
-            //return output;
         }
     }
 }
